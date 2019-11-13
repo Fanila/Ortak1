@@ -1,0 +1,14 @@
+
+Degerli Arkadaslar;
+
+Buradaki hesabi Git ve GitHub uzerinde daha fazla exercise yapalim diye olusturduk.
+Temel hedefimiz buraya hergun yazi olarak birseyler ekleyerek bu programlari daha fazla kullanabilmek.
+
+Mottomuz "Bugun yazilim icin ne yaptin?"
+
+Eklemeleri kendi hesabinizdan "Fork" ile yapiyorsunuz ve ardindan bana "Pull Request"  gonderiyorsunuz.
+
+Ilk Log"u ben ekleyeyim: 
+13.11.2019 :Anil ile birlikte yaklasik iki saaat calistik: 10. Uniteyi Bitirdik.
+Static- Final ve Autoboxing kavramlariyla Static siniflardan Math.xxxx komutlari hakkinda detayli okuma yaptik.
+
