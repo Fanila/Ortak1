@@ -42,4 +42,7 @@ Asagida githubta bugun yaptigim adimlari analtacagim:
 18- kendi hesabumda master branchina geldim ve projenin en son halini "git pull" komutu ile lokalime cektim.
 -----------------------------------------------------------------------------------------------------------------
 
+13.11.2019 Bir satir eklemek bu kadar zor olmamali...
+
+
 
