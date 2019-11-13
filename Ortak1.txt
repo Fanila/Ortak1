@@ -20,3 +20,4 @@ eklerken izledigim adimlari da ikinci bir kayit olarak gonderecegim.
 Saygilarimla,
 -----------------------------------------------------------------------------------------------------------------
 
+13.11.2019 Ben de bu satiri web uzerinden ekliyorum. Ayrica Visual Studio Code'dan da direkt yapilabiliyor ama onu daha sonra yapacagim.
