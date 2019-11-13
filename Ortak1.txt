@@ -43,3 +43,4 @@ Asagida githubta bugun yaptigim adimlari analtacagim:
 -----------------------------------------------------------------------------------------------------------------
 
 
+13.11.2019 Ben de bu satiri web uzerinden ekliyorum. Ayrica Visual Studio Code'dan da direkt yapilabiliyor ama onu daha sonra yapacagim.
