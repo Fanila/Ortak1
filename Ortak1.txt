@@ -11,4 +11,12 @@ Eklemeleri kendi hesabinizdan "Fork" ile yapiyorsunuz ve ardindan bana "Pull Req
 Ilk Log"u ben ekleyeyim: 
 13.11.2019 :Anil ile birlikte yaklasik iki saaat calistik: 10. Uniteyi Bitirdik.
 Static- Final ve Autoboxing kavramlariyla Static siniflardan Math.xxxx komutlari hakkinda detayli okuma yaptik.
+-----------------------------------------------------------------------------------------------------------------
+Merhaba, 
+
+Bugun git hakkinda arastirma yaptim. Eger basarili bir sekilde bu dosyayi github'a ekleyebilirsem, 
+eklerken izledigim adimlari da ikinci bir kayit olarak gonderecegim.
+
+Saygilarimla,
+-----------------------------------------------------------------------------------------------------------------
 
