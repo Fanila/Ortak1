@@ -19,4 +19,27 @@ eklerken izledigim adimlari da ikinci bir kayit olarak gonderecegim.
 
 Saygilarimla,
 -----------------------------------------------------------------------------------------------------------------
+Tekrar Merhaba,
+
+Asagida githubta bugun yaptigim adimlari analtacagim:
+ 1- github hesabima giris yaptim.
+ 2- "https://github.com/Fanila/Ortak1" linkine tikladim ve bir fork olusturdum.
+ 3- olusturdugum forkun github adresini kopyaladim. "https://github.com/BeginnerBee/Ortak1.git"
+ 4- PC de yeni bir kalsor olusturdum
+ 5- control panelinden olusturdugum bu kalsore gelecek sekilde adresi girdim.
+ 6- "git clone https://github.com/BeginnerBee/Ortak1.git" komutunu calistirdim.
+ 7- github kullanici adi ve sifre bilgilerini girdim.
+ 8- Proje basarili olarak olusturdugum klasore clonlandi-
+ 9- command line da projenin icine girdim-
+10- "git branch anil-1" komutu ile kendime yeni bir branch olusturdum-
+11- "git checkout anil-1" komutu ile kendi branchima geldim.
+12- herhangi bir editorden bugunku yaptigim calismalari yazdim ve kaydettim.
+13- "git add ." komutu ile degisiklikleri ekledim.
+14- "git commit -m "ilk comitim"" komutu ile commit islemini gerceklestirdim.
+15- "git push" ile degisiklikleri githuba gonderdim. (burda command line da cikan stream ile baslayan komutu da calistirdim.)
+16- github hesabimda pull request gonderdim. 
+17- yonetici degisikliklerimin olgu requesti kabul etti.
+18- kendi hesabumda master branchina geldim ve projenin en son halini "git pull" komutu ile lokalime cektim.
+-----------------------------------------------------------------------------------------------------------------
+
 
