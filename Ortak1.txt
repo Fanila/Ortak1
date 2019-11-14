@@ -41,5 +41,8 @@ Asagida githubta bugun yaptigim adimlari analtacagim:
 17- yonetici degisikliklerimin olgu requesti kabul etti.
 18- kendi hesabumda master branchina geldim ve projenin en son halini "git pull" komutu ile lokalime cektim.
 -----------------------------------------------------------------------------------------------------------------
+Herkese selamlar,
+
+Bugun ilk denememizi yapiyoruz.
 
 
