@@ -43,6 +43,6 @@ Asagida githubta bugun yaptigim adimlari analtacagim:
 -----------------------------------------------------------------------------------------------------------------
 Herkese selamlar,
 
-Bugun ilk denememizi yapiyoruz..
+Bugun ilk denememizi yapiyoruz....
 
 
